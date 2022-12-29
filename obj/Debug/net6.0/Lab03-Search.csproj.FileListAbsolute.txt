@@ -1,0 +1,30 @@
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.csproj.AssemblyReference.cache
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.AssemblyInfoInputs.cache
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.AssemblyInfo.cs
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.csproj.CoreCompileInputs.cache
+F:\Estructura de datos ll\Lab03-Search\bin\Debug\net6.0\Lab03-Search.exe
+F:\Estructura de datos ll\Lab03-Search\bin\Debug\net6.0\Lab03-Search.deps.json
+F:\Estructura de datos ll\Lab03-Search\bin\Debug\net6.0\Lab03-Search.runtimeconfig.json
+F:\Estructura de datos ll\Lab03-Search\bin\Debug\net6.0\Lab03-Search.dll
+F:\Estructura de datos ll\Lab03-Search\bin\Debug\net6.0\Lab03-Search.pdb
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.dll
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\refint\Lab03-Search.dll
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.pdb
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\Lab03-Search.genruntimeconfig.cache
+F:\Estructura de datos ll\Lab03-Search\obj\Debug\net6.0\ref\Lab03-Search.dll
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\bin\Debug\net6.0\Lab03-Search.exe
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\bin\Debug\net6.0\Lab03-Search.deps.json
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\bin\Debug\net6.0\Lab03-Search.runtimeconfig.json
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\bin\Debug\net6.0\Lab03-Search.dll
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\bin\Debug\net6.0\Lab03-Search.pdb
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.dll
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\refint\Lab03-Search.dll
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.pdb
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\Lab03-Search.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Lab03-Search\Lab03-Search\obj\Debug\net6.0\ref\Lab03-Search.dll
