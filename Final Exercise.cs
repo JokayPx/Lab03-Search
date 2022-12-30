@@ -94,6 +94,6 @@ class FinalExercise
         for (i = 1; i < n; i++)
             if (A[i] == clave)
                 return i;
-        return -1;
+        return -1 ;
     }
 }
